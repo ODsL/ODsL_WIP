@@ -13,3 +13,20 @@ This repository is meant to house several distinct components of the ODsL projec
 * A summary discussion regarding impact and adoption techniques and cooperation with relevant organizations.
 * Work in progress drafts of the different licenses composing such a set of licenses.
 
+
+## Main points
+
+### Necessity
+
+### Addressed issues
+
+### Structure and division
+
+### Impact and adoption
+
+
+## Human-readable summaries
+
+### Open Dataset License (ODsL)
+
+### Open Dataset Generation License (ODsGL)
