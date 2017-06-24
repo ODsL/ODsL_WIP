@@ -1,4 +1,5 @@
-# Open Dataset License (ODsL) - Work in progress
+Open Dataset License (ODsL) - Work in progress
+##############################################
 A work-in-progress suggestion for an open dataset license. 
 
 ODsL aims to provide a set of licenses for datasets and for code used to generate datasets that is more adequate than existing licenses to the consequences of current and possible future uses and applications of datasets and the code used to generate datasets.
@@ -8,7 +9,9 @@ ODsL aims to provide a set of licenses for datasets and for code used to generat
 
 .. section-numbering::
 
-## Project scope
+
+Project scope
+=============
 
 This repository is meant to house several distinct components of the ODsL project:
 * A summary discussion regarding the necessity of such a set of licenses.
@@ -18,22 +21,29 @@ This repository is meant to house several distinct components of the ODsL projec
 * Work in progress drafts of the different licenses composing such a set of licenses.
 
 
-## Main points
+Main points
+===========
 
-### Necessity
+Necessity
+---------
 
-### Addressed issues
+Addressed issues
+----------------
 
-### Structure and division
+Structure and division
+----------------------
 
-### Impact and adoption
+Impact and adoption
+-------------------
 
 
-## Human-readable license summaries
+Human-readable license summaries
+================================
 
 The language in these human-readable summaries (of a yet non-existent set of licenses of legal value) borrows heavilly from the human-readable summaries of the different ODbL licenses. We humbly thank the great ODbL project for the inspiration.
 
-### Open Dataset License (ODsL)
+Open Dataset License (ODsL)
+---------------------------
 
 You are free **to share** - to copy and distribute the dataset - and **to adapt** - to modify, transform and add to the dataset - as long as you:
 
@@ -46,7 +56,8 @@ You are free **to create** - to produce works from the databasea and use it for 
 * **Attribute**: You must attribute any product or services based upon transforming, processing, exposing or making avaialable the dataset, or any modified, transformed or extended form of the dataset, in the manner specified in the ODsL. 
 * **Keep open**: If you conduct research using the dataset, or an adapted version of it, then you may publish any such research through any platform limiting access to the publication as long as you also publish the same publication over an open publication platform, and give a notice of it existence in any such publication.
 
-### Open Dataset Generation License (ODsGL)
+Open Dataset Generation License (ODsGL)
+---------------------------------------
 
 You are free **to share** - to copy and distribute the code - and **to adapt** - to modify, transform and extend the code - as long as you:
 
