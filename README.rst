@@ -14,6 +14,7 @@ Project scope
 =============
 
 This repository is meant to house several distinct components of the ODsL project:
+
 * A summary discussion regarding the necessity of such a set of licenses.
 * A summary discussion regarding what issues such a set of licenses should address.
 * A summary discussion regarding the structure and division to distinct licenses of such a set of licenses.
