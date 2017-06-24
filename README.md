@@ -1,7 +1,7 @@
 # Open Dataset License (ODsL) - Work in progress
 A work-in-progress suggestion for an open dataset license. 
 
-ODsL aims to provide a set of licenses for datasets and for code used to generate datasets that is more adequate than existing licenses to the consequences of current and possible future uses and applications of dataset and the code used to generate datasets.
+ODsL aims to provide a set of licenses for datasets and for code used to generate datasets that is more adequate than existing licenses to the consequences of current and possible future uses and applications of datasets and the code used to generate datasets.
 
 
 ## Project scope
