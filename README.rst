@@ -19,6 +19,7 @@ This repository is meant to house several distinct components of the ODsL projec
 * A summary discussion regarding what issues such a set of licenses should address.
 * A summary discussion regarding the structure and division to distinct licenses of such a set of licenses.
 * A summary discussion regarding impact and adoption techniques and cooperation with relevant organizations.
+* Work in progress drafts of human-readable summaries of the different licenses composing such a set of licenses.
 * Work in progress drafts of the different licenses composing such a set of licenses.
 
 
